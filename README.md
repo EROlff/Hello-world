@@ -1,2 +1,6 @@
 # Hello-world
-My first repository
+
+Hi everyone!
+
+I am EROlff, new to programming and GitHub.
+Bye
